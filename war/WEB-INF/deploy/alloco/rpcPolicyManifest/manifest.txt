@@ -1,2 +1,3 @@
 # Module alloco
 # RPC service class, partial path of RPC policy file
+com.project.Alloco.client.GreetingService, 819584DB68FF356DBD912AC7FE02698E.gwt.rpc
