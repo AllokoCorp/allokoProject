@@ -1,0 +1,2 @@
+serviceClass: com.project.Alloco.client.GreetingService
+path: 819584DB68FF356DBD912AC7FE02698E.gwt.rpc
